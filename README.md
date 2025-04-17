@@ -3,10 +3,6 @@
 
 🌐 Browser-use is the easiest way to connect your AI agents with the browser.
 
-💡 See what others are building and share your projects in our [Discord](https://link.browser-use.com/discord)! Want Swag? Check out our [Merch store](https://browsermerch.com).
-
-🌤️ Skip the setup - try our <b>hosted version</b> for instant browser automation! <b>[Try the cloud ☁︎](https://cloud.browser-use.com)</b>.
-
 # Quick start
 
 With pip (Python>=3.11):
@@ -52,11 +48,10 @@ GROK_API_KEY=
 NOVITA_API_KEY=
 ```
 
-For other settings, models, and more, check out the [documentation 📕](https://docs.browser-use.com).
 
 ### Test with UI
 
-You can test [browser-use with a UI repository](https://github.com/browser-use/web-ui)
+You can test
 
 Or simply run the gradio example:
 
@@ -96,15 +91,11 @@ https://github.com/user-attachments/assets/171fb4d6-0355-46f2-863e-edb04a828d04
 
 <br/><br/>
 
-[Prompt](https://github.com/browser-use/browser-use/blob/main/examples/custom-functions/save_to_file_hugging_face.py): Look up models with a license of cc-by-sa-4.0 and sort by most likes on Hugging face, save top 5 to file.
+[Prompt] Look up models with a license of cc-by-sa-4.0 and sort by most likes on Hugging face, save top 5 to file.
 
-https://github.com/user-attachments/assets/de73ee39-432c-4b97-b4e8-939fd7f323b3
+
 
 <br/><br/>
-
-## More examples
-
-For more examples see the [examples](examples) folder or join the [Discord](https://link.browser-use.com/discord) and show off your project.
 
 # Vision
 
@@ -147,21 +138,14 @@ We love contributions! Feel free to open issues for bugs or feature requests. To
 
 ## Local Setup
 
-To learn more about the library, check out the [local setup 📕](https://docs.browser-use.com/development/local-setup).
+To learn more about the library, check out the my page.
 
 
-`main` is the primary development branch with frequent changes. For production use, install a stable [versioned release](https://github.com/browser-use/browser-use/releases) instead.
+`main` is the primary development branch with frequent changes. 
 
 ---
 
 ## Cooperations
-
-We are forming a commission to define best practices for UI/UX design for browser agents.
 Together, we're exploring how software redesign improves the performance of AI agents and gives these companies a competitive advantage by designing their existing software to be at the forefront of the agent age.
 
-Email [Toby](mailto:tbiddle@loop11.com?subject=I%20want%20to%20join%20the%20UI/UX%20commission%20for%20AI%20agents&body=Hi%20Toby%2C%0A%0AI%20found%20you%20in%20the%20browser-use%20GitHub%20README.%0A%0A) to apply for a seat on the committee.
-
-## Swag
-
-Want to show off your Browser-use swag? Check out our [Merch store](https://browsermerch.com). Good contributors will receive swag for free 👀.
-
+Email [Yash](mailto:vyaswanthkumar7@gmail.com?subject=hy buddy) to apply for a seat on the committee.
