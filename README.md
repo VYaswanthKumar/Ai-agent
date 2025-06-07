@@ -179,12 +179,12 @@ Want to show off your Browser-use swag? Check out our  Good contributors will re
 If you use Browser Use in your research or project, please cite:
 
 ```bibtex
-@software{browser_use2024,
+@software{browser_use2025,
   author = {Yaswanth},
   title = {Browser Use: Enable AI to control your browser},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/browser-use/browser-use}
+
 }
 ```
 
